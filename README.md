@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+<img width="408" alt="image" src="https://github.com/shlomielbaz/bmi-calculate-flutter/assets/426076/284fc406-387e-42b2-8bf9-1d691ff04f25">
+<img width="408" alt="image" src="https://github.com/shlomielbaz/bmi-calculate-flutter/assets/426076/231a5449-a25e-4c64-94c7-7291b265c897">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
